@@ -73,7 +73,7 @@ Python jupyter notebook
 ## Contacts
 
 Linkedin: 
-[www.linkedin.com/in/abinash-sonowal](Linkedin)
+[www.linkedin.com/in/abinash-sonowal](www.linkedin.com/in/abinash-sonowal)
 
 ## Enforcement Guidelines
 
